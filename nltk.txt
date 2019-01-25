@@ -1,0 +1,3 @@
+For those who want to experiment more with sentiment analysis, NLTK would be a helpful package of Python that provides several human language data as well as text processing libraries.
+
+http://www.nltk.org/
